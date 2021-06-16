@@ -1,5 +1,4 @@
-#Auhtor:Talip Sina Postacı
-#Cmpe326 homework 1
+#Auhtor:Sinap-git
 
 #Function that calculates the number of down-up-left-right properties!
 #Function ignores the oposite values that comes simultaneous such as dduu or rrll.
